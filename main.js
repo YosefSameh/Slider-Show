@@ -10,7 +10,7 @@ let next = document.getElementById("next")
 
 // step 2
 
-let arrSlider = ["/img/samsung-1.jpg","/img/samsung-2.jpg","/img/samsung-3.jpg","/img/samsung-4.jpg"]
+let arrSlider = ["img/samsung-1.jpg","img/samsung-2.jpg","img/samsung-3.jpg","img/samsung-4.jpg"]
 let index = 0
 
 let imgInSlider = (idx)=>{
